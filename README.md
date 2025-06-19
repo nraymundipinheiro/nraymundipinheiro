@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 I'm Natália! ☺️
 
-I'm a master's student at the [State University of New York at Stony Brook](https://www.stonybrook.edu/). I study Physics & Astronomy and I just love a good coding project. I like doing data analysis and simulation stuff, and I plan to get into a doctorate program next year where I can do more of it!
+I'm a master's student in Physics & Astronomy 🪐 at the [Stony Brook University](https://www.stonybrook.edu/). I love a good coding project 👩🏻‍💻, especially if it involves data analysis 🧐 and simulation 💻.
+
+If you'd like to contact me or just chat about cool stuff, email me 📧 at `nraymundipinheiro at hotmail dot com`!
