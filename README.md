@@ -1,4 +1,4 @@
-## Hey! Welcome to my GitHub home 😊
+### Hey! Welcome to my GitHub home 😊
 
 <!--
 **nraymundipinheiro/nraymundipinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
