@@ -2,7 +2,7 @@
 
 <!--
 **nraymundipinheiro/nraymundipinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🔭
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm Natália! ☺️
 
-I'm a master's student in Physics & Astronomy 🪐 at the [Stony Brook University](https://www.stonybrook.edu/). I love a good coding project 👩🏻‍💻, especially if it involves data analysis 🧐 and simulation 💻.
+I'm a master's student in Physics & Astronomy 🪐🔭 at the [Stony Brook University](https://www.stonybrook.edu/). I love a good coding project 👩🏻‍💻, especially if it involves data analysis and simulation.
 
-If you'd like to contact me or just chat about cool stuff, email me 📧 at `nraymundipinheiro at hotmail dot com`!
+If you'd like to contact me or just chat about cool stuff, email me at `nraymundipinheiro at hotmail dot com`!
