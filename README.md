@@ -1,4 +1,4 @@
-### Hey! Welcome to my GitHub home 😊
+### Hey! Welcome to my GitHub home 🏡
 
 <!--
 **nraymundipinheiro/nraymundipinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Natália! I'm a master's student at the (State University of New York at Stony Brook)[https://www.stonybrook.edu/]. I study Physics & Astronomy and I just love a good coding project. I like doing data analysis and simulation stuff, and I plan to get into a doctorate program next year where I can do more of it!
+I'm Natália! ☺️
+
+I'm a master's student at the [State University of New York at Stony Brook](https://www.stonybrook.edu/). I study Physics & Astronomy and I just love a good coding project. I like doing data analysis and simulation stuff, and I plan to get into a doctorate program next year where I can do more of it!
